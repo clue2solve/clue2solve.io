@@ -3,7 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: [The Unnofficial Java Client for Pinecone]
-description: The Pinecone Java Client is an unofficial Java library for interacting with PineconeDB, a vector database ideal for building vector search applications. This client library facilitates operations such as fetching index statistics, querying, and performing upsert and delete operations in PineconeDB.
-
-In addition to these vector operations, the Pinecone Java Client also provides an Index Client for managing indices in PineconeDB. The Index Client allows you to create, delete, and list indices, as well as manage collections within those indices. This makes it easy to organize your data in PineconeDB and perform operations on specific subsets of your data.]
+title: [The Unofficial Java Client for Pinecone]
+description: [Unofficial Java Client for Pinecone VectorDB]
