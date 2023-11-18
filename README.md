@@ -1,1 +1,0 @@
-# pinecone_java_client_home
