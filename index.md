@@ -6,7 +6,7 @@ title: Clue2Solve Open Source Projects
 # Welcome to Clue2Solve Open Source Projects
 
 ## About Clue2Solve
-At Clue2solve, the motto is to build better developer experience. In mission I have the tremendous pleasure to collaborate with some of the great friends I have made during my technology Journey over years. 
+At Clue2solve, the motto is to build better developer experience. In this mission I have the tremendous pleasure to collaborate with some of the great friends I have made during my technology Journey over years. 
 
 You can look for Developer tools, Libraries, Cloud Automation tooling and even some Cloud Strategy related information here at Clue2Solve. 
 
