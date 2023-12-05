@@ -1,3 +1,7 @@
+---
+title: Pinecone Java Client
+layout: default
+---
 ## Pinecone Java Client
 [![Java CI with Maven](https://github.com/clue2solve/pinecone-java-client/actions/workflows/maven.yml/badge.svg)](https://github.com/clue2solve/pinecone-java-client/actions/workflows/maven.yml)
 ### Overview
